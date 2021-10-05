@@ -7,7 +7,7 @@ M.Fajri Davyza Chaniago <br>
 Nama benda : Kotak Minuman <br>
 <br>
 <br>
-Hasil WEBGL <br>
+Hasil WEBGL tampak depan atas (kanan) dan tampak kiri atas (kiri) : <br>
 <img src="./hasil.jpg" width="800" height ="600">
 <br>
 Foto dari sudut depan atas : <br>
