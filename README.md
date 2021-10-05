@@ -1,10 +1,15 @@
-# Tugas-1 Grafkom A
+# tugas 1
 
-M.Fajri Davyza Chaniago <br> 05111940000180
+M.Fajri Davyza Chaniago <br>
 <br>
 <br>
 
 Nama benda : Kotak Minuman <br>
+<br>
+<br>
+Hasil WEBGL <br>
+<img src="./hasil.jpg" width="400" height ="600">
+<br>
 Foto dari sudut depan atas : <br>
 <img src="./depan.jpg" width="400" height ="600">
 <br>
