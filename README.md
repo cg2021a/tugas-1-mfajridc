@@ -8,7 +8,7 @@ Nama benda : Kotak Minuman <br>
 <br>
 <br>
 Hasil WEBGL tampak depan atas (kiri) dan tampak kiri atas (kanan) : <br>
-<img src="./hasil.jpg" width="800" height ="600">
+<img src="./fix.jpg" width="800" height ="600">
 <br>
 Foto dari sudut depan atas : <br>
 <img src="./depan.jpg" width="400" height ="600">
