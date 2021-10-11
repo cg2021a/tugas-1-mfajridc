@@ -7,6 +7,7 @@ M.Fajri Davyza Chaniago <br>
 Nama benda : Kotak Minuman <br>
 <br>
 <br>
+Berikut link untuk Melihat hasilnya : <a href="https://cg2021a.github.io/tugas-1-mfajridc/">Hasil Page</a>
 Hasil WEBGL tampak depan atas (kiri) dan tampak kiri atas (kanan) : <br>
 <img src="./fix.jpg" width="800" height ="600">
 <br>
