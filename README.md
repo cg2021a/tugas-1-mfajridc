@@ -27,5 +27,5 @@ Foto dari sudut kiri atas : <br>
 Dalam hal ini saya membuat beberapa objek geometri yang sekiranya menggunakan animasi yang dapat bergerak 
 dan juga menggunakan beberapa jenis light . kemudian saya menggunakan beberapa material seperti MeshPhongMaterial, MeshStandardMaterial, MeshPhysicalMaterial.
 <br>
-<frame src="https://cg2021a.github.io/tugas-1-junaediakbar/Tugas%20Three%20JS/" width="800px" height="600px"></frame>
-Berikut link untuk <a href="https://cg2021a.github.io/tugas-1-junaediakbar/Tugas%20Three%20JS/">LIVE DEMO </a>
+<frame src="https://cg2021a.github.io/tugas-1-mfajridc/tugasjs/" width="800px" height="600px"></frame>
+Berikut link untuk Melihat hasilnya : <a href="https://cg2021a.github.io/tugas-1-mfajridc/tugasjs/">Hasil Page</a>
