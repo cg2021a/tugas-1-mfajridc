@@ -1,4 +1,4 @@
-# tugas 1
+# Tugas 1 GRAFKOM A
 
 M.Fajri Davyza Chaniago <br>
 05111940000180
