@@ -1,4 +1,4 @@
-# Tugas 1 GRAFKOM A
+### 📗 Tugas 1 Grafkom A
 
 M.Fajri Davyza Chaniago <br>
 05111940000180
@@ -23,7 +23,7 @@ Foto dari sudut kanan atas : <br>
 Foto dari sudut kiri atas : <br>
 <img src="./kiri.jpg" width="400" height ="600">
 
-# Tugas Three JS 
+### 📗 Tugas 2 Three-JS Grafkom A 
 
 Dalam hal ini saya membuat beberapa objek geometri yang sekiranya menggunakan animasi yang dapat bergerak 
 dan juga menggunakan beberapa jenis light . kemudian saya menggunakan beberapa material seperti MeshPhongMaterial, MeshStandardMaterial, MeshPhysicalMaterial.
