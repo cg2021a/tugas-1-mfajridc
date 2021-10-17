@@ -30,3 +30,7 @@ dan juga menggunakan beberapa jenis light . kemudian saya menggunakan beberapa m
 <br>
 <frame src="https://cg2021a.github.io/tugas-1-mfajridc/tugasjs/" width="800px" height="600px"></frame>
 Berikut link untuk Melihat hasilnya : <a href="https://cg2021a.github.io/tugas-1-mfajridc/tugasjs/">Hasil Page</a>
+
+
+### 📗 Tugas 3 User Interaction Three-JS Grafkom A 
+
