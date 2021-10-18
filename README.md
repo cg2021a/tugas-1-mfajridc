@@ -1,4 +1,4 @@
-### 📗 Tugas 1 Grafkom A
+### :speech_balloon: Tugas 1 Grafkom A
 
 M.Fajri Davyza Chaniago <br>
 05111940000180
@@ -23,7 +23,7 @@ Foto dari sudut kanan atas : <br>
 Foto dari sudut kiri atas : <br>
 <img src="./kiri.jpg" width="400" height ="600">
 
-### 📗 Tugas 2 Three-JS Grafkom A 
+### :speech_balloon: Tugas 2 Three-JS Grafkom A 
 
 Dalam hal ini saya membuat beberapa objek geometri yang sekiranya menggunakan animasi yang dapat bergerak 
 dan juga menggunakan beberapa jenis light . kemudian saya menggunakan beberapa material seperti MeshPhongMaterial, MeshStandardMaterial, MeshPhysicalMaterial.
@@ -32,7 +32,7 @@ dan juga menggunakan beberapa jenis light . kemudian saya menggunakan beberapa m
 Berikut link untuk Melihat hasilnya : <a href="https://cg2021a.github.io/tugas-1-mfajridc/tugasjs/">Hasil Page</a>
 
 
-### 📗 Tugas 3 User Interaction Three-JS Grafkom A 
+### :speech_balloon: Tugas 3 User Interaction Three-JS Grafkom A 
 
 Tugas kali ini merupakan penerapan dari materi user interaction (three-js) yang dimana objek box akan bertambah, kemudian terdapat perubahan kecepatan dan yang terakhir box akan menjadi warna putih ketika di pilih dan berotasi.
 
