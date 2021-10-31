@@ -39,8 +39,10 @@ Tugas kali ini merupakan penerapan dari materi user interaction (three-js) yang 
 <br>
 <frame src="https://cg2021a.github.io/tugas-1-mfajridc/User%20Interaction%20-%20Three%20js/" width="800px" height="600px"></frame>
 Berikut link untuk Melihat hasilnya : <a href="https://cg2021a.github.io/tugas-1-mfajridc/User%20Interaction%20-%20Three%20js/">Hasil Page</a>
-<<<<<<< HEAD
 
 ### :speech_balloon: Tugas 4 Grafkom A 
-=======
->>>>>>> 229e923ca4bdc4f2f49e969ceedbc9cbb10097ba
+Pada tugas kali ini kita di minta untuk mengimplementasikan js dengan control,texture,panorama,shadow,loading model, dan realistic reflective. 
+
+<br>
+<frame src="https://cg2021a.github.io/tugas-1-mfajridc/User%20Interaction%20-%20Three%20js/" width="800px" height="600px"></frame>
+Berikut link untuk Melihat hasilnya : <a href="https://cg2021a.github.io/tugas-1-mfajridc/tugas4/">Hasil Page</a>
