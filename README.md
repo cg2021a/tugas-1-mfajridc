@@ -45,4 +45,4 @@ Pada tugas kali ini kita di minta untuk mengimplementasikan js dengan control,te
 
 <br>
 <frame src="https://cg2021a.github.io/tugas-1-mfajridc/User%20Interaction%20-%20Three%20js/" width="800px" height="600px"></frame>
-Berikut link untuk Melihat hasilnya : <a href="https://cg2021a.github.io/tugas-1-mfajridc/tugas4/">Hasil Page</a>
+Berikut link untuk Melihat hasilnya : <a href="https://cg2021a.github.io/tugas-1-mfajridc/tugas-4/">Hasil Page</a>
